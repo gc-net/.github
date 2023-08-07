@@ -6,7 +6,7 @@ All this power should be put in the hands of the creator. And that's why we crea
 
 ## What is Gaia?
 
-Gaia (/ˈɡeɪə, ˈɡaɪə/), meaning Earth, is a dynamic minter & development toolkit for artists, visionaries, developers and other creators to share and upload content unto any blockchain. (Yes, this means we have multi/cross chain support!) Whether you wish to sell your art, sign legal documents, create subscription models for services, manage game-world items or even track physical items in the real world, Gaia provides you with an extensive toolset to achieve anything you desire.
+Gaia (/ˈɡeɪə, ˈɡaɪə/), meaning Earth, is a dynamic minter & development toolkit for artists, visionaries, developers and other creators to share and upload content on to any blockchain. (Yes, this means we have multi/cross chain support!) Whether you wish to sell your art, sign legal documents, create subscription models for services, manage game-world items or even track physical items in the real world, Gaia provides you with an extensive toolset to achieve anything you desire.
 
 We offer a custom built developer console to manage your Gaia deployment, a React-based API for users to interact with the items in your Gaia deployment, a full cross-chain solution for users on other ecosystems and access to an expansive plugin system to enable you to extend the functionality of the content you wish for others to mint.
 
