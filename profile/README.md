@@ -1,4 +1,4 @@
-# I am Lizzie.
+# Lizzie Softwarre Limited
 
 My goal is to grant content creators the ability to own their own platforms to share their content under their own terms.
 No more middlemen taking cuts dictated by obscured or hidden terms, conglomerates deciding how your content is shared and managed -
