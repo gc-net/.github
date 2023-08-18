@@ -1,8 +1,8 @@
-# Lizzie Software Limited
+# Galaxy Computing Limited
 
-My goal is to grant content creators the ability to own their own platforms to share their content under their own terms.
+Our goal is to grant content creators the ability to own their own platforms to share their content under their own terms.
 No more middlemen taking cuts dictated by obscured or hidden terms, conglomerates deciding how your content is shared and managed -
-All this power should be put in the hands of the creator. And that's why I created [Gaia](<https://gaia.genesiscomputing.uk>).
+All this power should be put in the hands of the creator. And that's why we created [Gaia](<https://gaia.genesiscomputing.uk>).
 
 ## What is Gaia?
 
@@ -20,8 +20,8 @@ And we're here to help you achieve that. 🫀
 
 ## Get involved
 
-I'm always looking for more talented engineers, managers, lawyers and marketers to help achieve this dream.
-I'm not just looking for the most experienced or most qualified. I'm looking for the critical thinkers, the driven engineers who take on the vision and push the idea further than it currently is.
+We are always looking for more talented engineers, managers, lawyers and marketers to help achieve this dream.
+We are not just looking for the most experienced or most qualified. We're looking for the critical thinkers, the driven engineers who take on the vision and push the idea further than it currently is.
 If this sounds like you, shoot an email and work with us or feel free to start making pull requests!
 
 The trick with is: take the initiative.
